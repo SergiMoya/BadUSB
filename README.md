@@ -7,7 +7,7 @@ Este repositorio permite configurar un **BadUSB** utilizando el microcontrolador
 ---
 Para comenzar, asegúrate de mantener presionado el botón de BOOT mientras conectas el dispositivo USB al ordenador. Esto pondrá el dispositivo en modo de configuración.
 
-
+![RP2040-ONE](rp2040-one-1.jpg)
 
 ### **2. Ejecutar el script de configuración:**
 ---
